@@ -18,6 +18,7 @@ theme:
   
   features:
     - navigation.footer
+    - navigation.indexes
 
 markdown_extensions:
 
@@ -57,3 +58,10 @@ extra:
       link: https://www.instagram.com/ryorionmyown/profilecard/?igsh=NDFhc243bGI0cmc=
 
 copyright: Copyright &copy; 2024 David Wang
+
+# Page tree
+nav:
+- Home: index.md
+- A1:
+  - foundations_what_is_aging_fish/index.md
+  - P 1: foundations_what_is_aging_fish/p_1.md
