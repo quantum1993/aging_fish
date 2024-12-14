@@ -62,6 +62,6 @@ copyright: Copyright &copy; 2024 David Wang
 # Page tree
 nav:
 - Home: index.md
-- Foundations: What Is Aged Fish?:
+- Foundations | What Is Aged Fish?:
   - foundations_what_is_aging_fish/index.md
   - Definition and Origins of Aged Fish: foundations_what_is_aging_fish/P_1.md
