@@ -1,10 +1,10 @@
 copyright: Copyright &copy; 2024 David Wang
 repo_name: quantum1993/aging_fish
 repo_url: hhttps://github.com/quantum1993/aging_fish
+site_author: David Wang
 
 theme:
   name: material
-  custom_dir: overrides
   icon:
     repo: fontawesome/brands/github
   palette: 

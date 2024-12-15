@@ -1,6 +1,5 @@
 INHERIT: mkdocs.common.yml
 
-site_author: David Wang
 site_name: From Catch to Plate | The Flavorful Journey of Aged Fish
 site_url: https://quantum1993.github.io/aging_fish/en/
 docs_dir: 'docs/en'
