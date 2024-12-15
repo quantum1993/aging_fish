@@ -1,7 +1,12 @@
-site_name: My Docs
-site_url: https://mydomain.org/mysite
+copyright: Copyright &copy; 2024 David Wang
+repo_name: quantum1993/aging_fish
+repo_url: hhttps://github.com/quantum1993/aging_fish
+
 theme:
   name: material
+  custom_dir: overrides
+  icon:
+    repo: fontawesome/brands/github
   palette: 
 
     # Palette toggle for light mode
@@ -56,12 +61,10 @@ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/ryorionmyown/profilecard/?igsh=NDFhc243bGI0cmc=
-
-copyright: Copyright &copy; 2024 David Wang
-
-# Page tree
-nav:
-- Home: index.md
-- Foundations | What Is Aged Fish?:
-  - foundations_what_is_aging_fish/index.md
-  - Definition and Origins of Aged Fish: foundations_what_is_aging_fish/P_1.md
+  alternate:  
+    - name: English
+      link: https://quantum1993.github.io/aging_fish/en/
+      lang: en
+    - name: Chinese (Taiwanese)
+      link: https://quantum1993.github.io/aging_fish/zh-TW/
+      lang: zh-TW

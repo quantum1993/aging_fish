@@ -1,0 +1,16 @@
+INHERIT: mkdocs.common.yml
+
+site_author: David Wang
+site_name: From Catch to Plate | The Flavorful Journey of Aged Fish
+site_url: https://quantum1993.github.io/aging_fish/en/
+docs_dir: 'docs/en'
+
+theme:
+  language: en
+
+# Page tree
+nav:
+- Home: index.md
+- Foundations | What Is Aged Fish?:
+  - foundations_what_is_aging_fish/index.md
+  - Definition and Origins of Aged Fish: foundations_what_is_aging_fish/P_1.md
