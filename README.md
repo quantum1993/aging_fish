@@ -15,3 +15,5 @@ y delving into the science and techniques behind aged fish, we not only unlock a
 詳細內容請參考[github page](https://quantum1993.github.io/aging_fish/)文件
 
 Please visit the [github page](https://quantum1993.github.io/aging_fish/) to start your journey.
+
+Lastly, I'd like to thank [berkantsahn](https://github.com/berkantsahn) for providing a [great example of bilingual mkdocs](https://github.com/berkantsahn/mkdocs-sample/tree/main).
