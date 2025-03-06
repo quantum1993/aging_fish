@@ -1,6 +1,6 @@
 INHERIT: mkdocs.common.yml
 
-site_name: 從魚身到餐桌：熟成魚的美味旅程
+site_name: 從大海到餐桌:熟成魚的美味旅程
 site_url: https://quantum1993.github.io/aging_fish/zh-TW/
 docs_dir: 'docs/zh-TW'
 site_dir: 'site/zh-TW/'

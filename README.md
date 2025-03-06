@@ -1,4 +1,4 @@
-# 從魚身到餐桌：熟成魚的美味旅程  / From Catch to Plate: The Flavorful Journey of Aged Fish
+# 從大海到餐桌：熟成魚的美味旅程  / From Catch to Plate: The Flavorful Journey of Aged Fish
 這是一個關於熟成魚的知識庫(repository)，記錄了我在這個領域的探索過程，以及所有學到的相關知識和技巧。  
 熟成魚，作為一門將科學與藝術結合的技術，不僅能賦予魚肉更深層次的風味，還能讓人們重新認識食材的潛力與價值。  
 我希望能在這裡分享自己在熟成魚實踐中的心得，包括如何選擇適合熟成的魚種、如何掌控熟成的關鍵條件，以及如何通過技術改變魚肉的質地與香氣。
