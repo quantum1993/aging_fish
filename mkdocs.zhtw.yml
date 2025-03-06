@@ -12,26 +12,28 @@ theme:
 nav:
 - Home: index.md
 - 基礎篇:什麼是熟成魚?:
-  - foundations_what_is_aging_fish/index.md
-  - 熟成魚的定義與起源: foundations_what_is_aging_fish/definition_and_origins_of_aged_fish.md
-  - 為什麼熟成魚風靡?: foundations_what_is_aging_fish/why_is_aged_fish_popular.md
+  - 01_foundations_what_is_aging_fish/index.md
+  - 熟成魚的定義與起源: 01_foundations_what_is_aging_fish/01_definition_and_origins_of_aged_fish.md
+  - 為什麼熟成魚風靡?: 01_foundations_what_is_aging_fish/02_why_is_aged_fish_popular.md
 - 科學篇:魚類死亡後的變化:
-  - the_science_what_happens_after_a_fish_dies/index.md
-  - 魚類死亡後的三階段: the_science_what_happens_after_a_fish_dies/the_three_stages_post-mortem.md
-  - 掌控熟成變化: the_science_what_happens_after_a_fish_dies/harness_the_changes_of_fish_aging.md
+  - 02_the_science_what_happens_after_a_fish_dies/index.md
+  - 魚類死亡後的三階段: 02_the_science_what_happens_after_a_fish_dies/01_the_three_stages_post-mortem.md
+  - 掌控熟成變化: 02_the_science_what_happens_after_a_fish_dies/02_harness_the_changes_of_fish_aging.md
 - 實踐篇:如何熟成魚?:
-  - practice_how_to_age_fish/index.md
-  - 魚種的選擇: practice_how_to_age_fish/
-  - 熟成方式比較: practice_how_to_age_fish/
-  - 關鍵步驟與條件: practice_how_to_age_fish/
+  - 03_practice_how_to_age_fish/index.md
+  - 魚種的選擇: 03_practice_how_to_age_fish/01_choosing_the_right_fish.md
+  - 熟成方式比較: 03_practice_how_to_age_fish/02_comparison_of_aging_methods.md
+  - 關鍵步驟與條件: 03_practice_how_to_age_fish/03_key_steps_and_conditions.md
 - 風味實驗篇:熟成魚的美味秘密:
-  - flavor_the_secrets_behind_the_taste_of_aged_fish/index.md
-  - 熟成如何改變魚的風味?: flavor_the_secrets_behind_the_taste_of_aged_fish/comparison_experiment_aged_fresh_fish.md
-  - 不同熟成階段的風味表現: flavor_the_secrets_behind_the_taste_of_aged_fish/
-  - 熟成與新鮮的比較實驗: flavor_the_secrets_behind_the_taste_of_aged_fish/
-  - 放血與否的比較實驗: flavor_the_secrets_behind_the_taste_of_aged_fish/
-  - 津本式放血的比較實驗: flavor_the_secrets_behind_the_taste_of_aged_fish/
-  - 真空與否的比較實驗: flavor_the_secrets_behind_the_taste_of_aged_fish/
-  - 魚肉接觸到鹹水、淡水的比較實驗: flavor_the_secrets_behind_the_taste_of_aged_fish/
-
+  - 04_flavor_the_secrets_behind_the_taste_of_aged_fish/index.md
+  - 熟成如何改變魚的風味?: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/01_aging_transform_flavor.md
+  - 不同熟成階段的風味表現: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/02_flavor_profiles.md
+  - 熟成與新鮮的比較實驗: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/03_comparison_experiment_aged_fresh_fish.md
+  - 放血與否的比較實驗: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/04_comparison_experiment_with_and_without_bleeding.md
+  - 津本式放血的比較實驗: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/05_comparison_experiment_tsumoto_style.md
+  - 真空與否的比較實驗: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/06_comparison_experiment_vacuum_sealed.md
+  - 魚肉接觸到鹹水、淡水的比較實驗: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/07_comparison_experiment_salt_fresh_water.md
+  - 熟成時溫度差異的比較實驗: 04_flavor_the_secrets_behind_the_taste_of_aged_fish/08_comparison_experiment_temperature.md
+- 問答篇:常見問題與解決方案:
+  - 05_common_problems_and_solutions/index.md
 
