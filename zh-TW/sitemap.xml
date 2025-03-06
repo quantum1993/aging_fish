@@ -2,17 +2,102 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://quantum1993.github.io/aging_fish/zh-TW/</loc>
-         <lastmod>2025-01-01</lastmod>
+         <lastmod>2025-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://quantum1993.github.io/aging_fish/zh-TW/foundations_what_is_aging_fish/</loc>
-         <lastmod>2025-01-01</lastmod>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/01_foundations_what_is_aging_fish/</loc>
+         <lastmod>2025-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://quantum1993.github.io/aging_fish/zh-TW/foundations_what_is_aging_fish/P_1/</loc>
-         <lastmod>2025-01-01</lastmod>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/01_foundations_what_is_aging_fish/01_definition_and_origins_of_aged_fish/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/01_foundations_what_is_aging_fish/02_why_is_aged_fish_popular/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/02_the_science_what_happens_after_a_fish_dies/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/02_the_science_what_happens_after_a_fish_dies/01_the_three_stages_post-mortem/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/02_the_science_what_happens_after_a_fish_dies/02_harness_the_changes_of_fish_aging/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/03_practice_how_to_age_fish/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/03_practice_how_to_age_fish/01_choosing_the_right_fish/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/03_practice_how_to_age_fish/02_comparison_of_aging_methods/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/03_practice_how_to_age_fish/03_key_steps_and_conditions/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/01_aging_transform_flavor/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/02_flavor_profiles/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/03_comparison_experiment_aged_fresh_fish/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/04_comparison_experiment_with_and_without_bleeding/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/05_comparison_experiment_tsumoto_style/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/06_comparison_experiment_vacuum_sealed/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/07_comparison_experiment_salt_fresh_water/</loc>
+         <lastmod>2025-03-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://quantum1993.github.io/aging_fish/zh-TW/04_flavor_the_secrets_behind_the_taste_of_aged_fish/08_comparison_experiment_temperature/</loc>
+         <lastmod>2025-03-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
