@@ -420,5 +420,11 @@ Q: 何謂退酸?
 Q: 為何酵素性分解比細菌性分解早開始?
 
 下方這句話出自"海產食品的品質與其貯藏中腐敗的起因"一文  
-海洋中捕獲的魚類因激烈運動，通常會耗盡肝醣(glycogen)，因此死後肌肉中不能產生乳酸，使得肌肉pH接近中性而有利於微生物的生長
+「海洋中捕獲的魚類因激烈運動，通常會耗盡肝醣(glycogen)，因此死後肌肉中不能產生乳酸，使得肌肉pH接近中性而有利於微生物的生長」
 個人認為敘述有誤，耗盡肝醣就會產生乳酸了(ATP的厭氧循環的最終產物就是乳酸)，本來pH值就偏低
+
+「一般，大型魚類的腐敗比小型魚類更慢，寡脂魚(lean fish)比多脂魚(fatty fish)更易腐敗(Hyldig et al., 2007)」
+如果去看文獻，明明人家就是這樣寫
+The spoilage rate and shelf life of fish are affected by many parameters and fish spoil at different rates.
+In general it can be stated that larger fish spoil more slowly than small fish, lean fish keep longer than fatty fish under aerobic storage, and bony fish are edible longer than cartilaginous fish.
+意思是脂肪多的魚更容易腐敗
